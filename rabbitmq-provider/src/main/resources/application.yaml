@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  rabbitmq:
+    host: 10.0.1.253
+    port: 5672
+    username: paas
+    password: paas
+    virtual-host: /paas
