@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+rabbitmq-consumer/src/test/
+rabbitmq-consumer/target/
+rabbitmq-provider/src/test/
+rabbitmq-provider/target/
+.idea
